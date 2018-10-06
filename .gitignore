@@ -1,0 +1,4 @@
+
+*.class 
+a.out
+.bash_history
